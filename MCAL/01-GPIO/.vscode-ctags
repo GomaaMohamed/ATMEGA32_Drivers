@@ -1,0 +1,59 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	//
+DDRA	GPIO_private.h	/^#define DDRA /;"	d
+DDRB	GPIO_private.h	/^#define DDRB /;"	d
+DDRC	GPIO_private.h	/^#define DDRC /;"	d
+DDRD	GPIO_private.h	/^#define DDRD /;"	d
+GPIOA	GPIO_interface.h	/^	GPIOA=0,$/;"	e	enum:__anon5f2cbafa0103
+GPIOB	GPIO_interface.h	/^	GPIOB, $/;"	e	enum:__anon5f2cbafa0103
+GPIOC	GPIO_interface.h	/^	GPIOC,$/;"	e	enum:__anon5f2cbafa0103
+GPIOD	GPIO_interface.h	/^	GPIOD,$/;"	e	enum:__anon5f2cbafa0103
+GPIO_enablePortMaskPullup	GPIO_program.c	/^void GPIO_enablePortMaskPullup(Port_type Port, u8 Mask){$/;"	f	typeref:typename:void
+GPIO_enablePullup	GPIO_program.c	/^void GPIO_enablePullup(Port_type Port, Pin_type Pin){$/;"	f	typeref:typename:void
+GPIO_getPinValue	GPIO_program.c	/^PinState_type GPIO_getPinValue(Port_type Port , Pin_type Pin)$/;"	f	typeref:typename:PinState_type
+GPIO_setPinDirection	GPIO_program.c	/^void GPIO_setPinDirection(Port_type Port , Pin_type Pin , Mode_type Mode)$/;"	f	typeref:typename:void
+GPIO_setPinValue	GPIO_program.c	/^void GPIO_setPinValue(Port_type Port , Pin_type Pin , PinState_type PinState)$/;"	f	typeref:typename:void
+GPIO_setPortMaskDirection	GPIO_program.c	/^void GPIO_setPortMaskDirection(Port_type Port , u8 Mask , Mode_type Mode)$/;"	f	typeref:typename:void
+GPIO_setPortMaskValue	GPIO_program.c	/^void GPIO_setPortMaskValue(Port_type Port ,u8 Mask ,PinState_type State)$/;"	f	typeref:typename:void
+GPIO_togglePin	GPIO_program.c	/^void GPIO_togglePin(Port_type Port , Pin_type Pin)$/;"	f	typeref:typename:void
+HIGH	GPIO_interface.h	/^	HIGH,$/;"	e	enum:__anon5f2cbafa0403
+INPUT	GPIO_interface.h	/^	INPUT = 0,$/;"	e	enum:__anon5f2cbafa0303
+LOW	GPIO_interface.h	/^	LOW=0,$/;"	e	enum:__anon5f2cbafa0403
+MAX_MODE	GPIO_interface.h	/^	MAX_MODE$/;"	e	enum:__anon5f2cbafa0303
+MAX_PIN	GPIO_interface.h	/^	MAX_PIN$/;"	e	enum:__anon5f2cbafa0203
+MAX_PORT	GPIO_interface.h	/^	MAX_PORT$/;"	e	enum:__anon5f2cbafa0103
+MAX_STATE	GPIO_interface.h	/^	MAX_STATE$/;"	e	enum:__anon5f2cbafa0403
+Mode_type	GPIO_interface.h	/^}Mode_type;$/;"	t	typeref:enum:__anon5f2cbafa0303
+OUTPUT	GPIO_interface.h	/^	OUTPUT,$/;"	e	enum:__anon5f2cbafa0303
+PIN0	GPIO_interface.h	/^	PIN0=0,$/;"	e	enum:__anon5f2cbafa0203
+PIN1	GPIO_interface.h	/^	PIN1,$/;"	e	enum:__anon5f2cbafa0203
+PIN2	GPIO_interface.h	/^	PIN2,$/;"	e	enum:__anon5f2cbafa0203
+PIN3	GPIO_interface.h	/^	PIN3,$/;"	e	enum:__anon5f2cbafa0203
+PIN4	GPIO_interface.h	/^	PIN4,$/;"	e	enum:__anon5f2cbafa0203
+PIN5	GPIO_interface.h	/^	PIN5,$/;"	e	enum:__anon5f2cbafa0203
+PIN6	GPIO_interface.h	/^	PIN6,$/;"	e	enum:__anon5f2cbafa0203
+PIN7	GPIO_interface.h	/^	PIN7,$/;"	e	enum:__anon5f2cbafa0203
+PINA	GPIO_private.h	/^#define PINA /;"	d
+PINB	GPIO_private.h	/^#define PINB /;"	d
+PINC	GPIO_private.h	/^#define PINC /;"	d
+PIND	GPIO_private.h	/^#define PIND /;"	d
+PORTA	GPIO_private.h	/^#define PORTA /;"	d
+PORTB	GPIO_private.h	/^#define PORTB /;"	d
+PORTC	GPIO_private.h	/^#define PORTC /;"	d
+PORTD	GPIO_private.h	/^#define PORTD /;"	d
+PinState_type	GPIO_interface.h	/^}PinState_type;$/;"	t	typeref:enum:__anon5f2cbafa0403
+Pin_type	GPIO_interface.h	/^}Pin_type;$/;"	t	typeref:enum:__anon5f2cbafa0203
+Port_type	GPIO_interface.h	/^}Port_type;$/;"	t	typeref:enum:__anon5f2cbafa0103
+_GPIO_CONFIG_H	GPIO_config.h	/^#define _GPIO_CONFIG_H$/;"	d
+_GPIO_INTERFACE_H	GPIO_interface.h	/^#define _GPIO_INTERFACE_H$/;"	d
+_GPIO_PRIVATE_H	GPIO_private.h	/^#define _GPIO_PRIVATE_H$/;"	d
+__SFR_OFFSET	GPIO_private.h	/^#define __SFR_OFFSET /;"	d
+__anon5f2cbafa0103	GPIO_interface.h	/^{$/;"	g
+__anon5f2cbafa0203	GPIO_interface.h	/^{$/;"	g
+__anon5f2cbafa0303	GPIO_interface.h	/^{$/;"	g
+__anon5f2cbafa0403	GPIO_interface.h	/^{$/;"	g
