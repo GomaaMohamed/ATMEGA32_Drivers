@@ -2,8 +2,8 @@
 ## Microcontroller Abstraction Layer (MCAL) for Atmega32
 ```
 This is a collection of device driver libraries for the Atmega32 microcontroller.
-The libraries provide low-level access to various hardware peripherals and features of the microcontroller,
-such as GPIO, ADC, EXTI, Timers, UART, SPI, I2C, WDG, EEPROM, etc.
+The libraries provide low-level access to various hardware peripherals and features of
+the microcontroller, such as GPIO, ADC, EXTI, Timers, UART, SPI, I2C, WDG, EEPROM, etc.
 ```
 ## Hardware Abstraction Layer (HAL)
 ```
@@ -35,9 +35,9 @@ code and link against the compiled library.
 >> The libraries provide configuration options that allow you to customize the behavior of the
    device drivers. For example, you can configure the GPIO pins as input or output, or configure
    the Timers to use a specific clock source and prescaler.
->> To configure the libraries, you can modify the configuration files (MOD_config.h ) to define the
-   appropriate configuration macros. Alternatively, you can define the macros directly in your code
-   before including the relevant header files.
+>> To configure the libraries, you can modify the configuration files (MOD_config.h )
+   to define the appropriate configuration macros. Alternatively, you can define the
+   macros directly in your code before including the relevant header files.
 ```
 ## License
 ```
