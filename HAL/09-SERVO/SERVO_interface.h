@@ -8,8 +8,8 @@
 * @date:    Sun, 01 Oct 2023 22:24:42 +0300
 * @brief:   Servo Motor Driver.
 ******************************************************************************/
-#ifndef SERVO_INTERFACE_H
-#define SERVO_INTERFACE_H
+#ifndef _SERVO_INTERFACE_H
+#define _SERVO_INTERFACE_H
 
 
 /* ==================================================================== */

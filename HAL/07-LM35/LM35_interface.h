@@ -8,8 +8,8 @@
 * @date:    Mon, 18 Sep 2023 18:14:04 +0300
 * @brief:   Temprature Sensor(LM35) Driver.
 ******************************************************************************/
-#ifndef LM35_INTERFACE_H
-#define LM35_INTERFACE_H
+#ifndef _LM35_INTERFACE_H
+#define _LM35_INTERFACE_H
 
 /* ==================================================================== */
 /* ==================== Public Functions Declaration ================== */

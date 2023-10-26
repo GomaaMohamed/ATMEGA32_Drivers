@@ -8,8 +8,8 @@
 * @date:    Thu, 07 Sep 2023 19:09:10 +0300
 * @brief:   LCD Driver.
 ******************************************************************************/
-#ifndef LCD_INTERFACE_H
-#define LCD_INTERFACE_H
+#ifndef _LCD_INTERFACE_H
+#define _LCD_INTERFACE_H
 
 /* ==================================================================== */
 /* ==================== Public Functions Declaration ================== */

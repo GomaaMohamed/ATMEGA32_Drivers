@@ -70,7 +70,10 @@ UltrasonicDistance_type USONIC_getDistance(u32 *Distance)
     {
         u32 Time = (EchoTimerValue - TriggerTimerValue);
         *Distance = (Time/56);
-        ReturnState = VALID_DISTANCE;
+        if (*Distance > 0 && *Distance <= 400)
+        {
+            ReturnState = VALID_DISTANCE;
+        }
     }
     return ReturnState;
 }

@@ -8,8 +8,8 @@
 * @date:    Sun, 01 Oct 2023 22:26:56 +0300
 * @brief:   Watch Dog Driver for Atmega32.
 ******************************************************************************/
-#ifndef WDG_INTERFACE_H
-#define WDG_INTERFACE_H
+#ifndef _WDG_INTERFACE_H
+#define _WDG_INTERFACE_H
 
 /* ==================================================================== */
 /* ======================= Public Data Types ========================== */

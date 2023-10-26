@@ -8,8 +8,8 @@
 * @date:    Sun, 24 Sep 2023 21:12:51 +0300
 * @brief:   Real Time Clock Driver.
 ******************************************************************************/
-#ifndef RTC_CONFIG_H
-#define RTC_CONFIG_H
+#ifndef _RTC_CONFIG_H
+#define _RTC_CONFIG_H
 
 
 

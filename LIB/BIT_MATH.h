@@ -8,8 +8,8 @@
 * @date:    Fri, 8 Sep 2023 18:21:12 +0200
 * @brief:   Bit Manipulation Library.
 ******************************************************************************/
-#ifndef  BIT_MATH_H
-#define  BIT_MATH_H
+#ifndef  _BIT_MATH_H
+#define  _BIT_MATH_H
 
 /* Bit Operations */
 #define  SET_BIT(VAR,BIT)   VAR |=(1<<(BIT))

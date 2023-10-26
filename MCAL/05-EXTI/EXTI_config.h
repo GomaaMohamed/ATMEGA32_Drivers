@@ -8,8 +8,8 @@
 * @date:    Sat, 16 Sep 2023 06:48:06 +0300
 * @brief:   EXTI driver for Atmega32.
 ******************************************************************************/
-#ifndef EXTI_CONFIG_H
-#define EXTI_CONFIG_H
+#ifndef _EXTI_CONFIG_H
+#define _EXTI_CONFIG_H
 
 /* ==================================================================== */
 /* =================== Configurations Selection ======================= */

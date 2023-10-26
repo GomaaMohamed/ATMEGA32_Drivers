@@ -8,8 +8,8 @@
 * @date:    Mon, 18 Sep 2023 09:29:28 +0300
 * @brief:   ADC Driver for Atmega32.
 ******************************************************************************/
-#ifndef ADC_INTERFACE_H
-#define ADC_INTERFACE_H
+#ifndef _ADC_INTERFACE_H
+#define _ADC_INTERFACE_H
 
 /* ==================================================================== */
 /* ======================= Public Data Types ========================== */

@@ -8,8 +8,8 @@
 * @date:    Fri, 8 Sep 2023 10:51:56 +0200
 * @brief:   Timer Driver for Atmega32.
 ******************************************************************************/
-#ifndef TIMER_CONFIG_H
-#define TIMER_CONFIG_H
+#ifndef _TIMER_CONFIG_H
+#define _TIMER_CONFIG_H
 
 
 

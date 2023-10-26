@@ -8,8 +8,8 @@
 * @date:    Thu, 07 Sep 2023 19:09:10 +0300
 * @brief:   LCD Driver.
 ******************************************************************************/
-#ifndef LCD_PRIVATE_H
-#define LCD_PRIVATE_H
+#ifndef _LCD_PRIVATE_H
+#define _LCD_PRIVATE_H
 
 /* ==================================================================== */
 /* =================== Private Variables and Macros =================== */

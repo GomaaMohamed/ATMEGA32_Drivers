@@ -8,8 +8,8 @@
 * @date:    Sat, 23 Sep 2023 12:18:05 +0300
 * @brief:   External EEPROM Driver.
 ******************************************************************************/
-#ifndef EXEEPROM_INTERFACE_H
-#define EXEEPROM_INTERFACE_H
+#ifndef _EXEEPROM_INTERFACE_H
+#define _EXEEPROM_INTERFACE_H
 
 /* ==================================================================== */
 /* ======================= Public Data Types ========================== */

@@ -8,8 +8,8 @@
 * @date:    Sun, 01 Oct 2023 22:26:56 +0300
 * @brief:   Watch Dog Driver for Atmega32.
 ******************************************************************************/
-#ifndef WDG_PRIVATE_H
-#define WDG_PRIVATE_H
+#ifndef _WDG_PRIVATE_H
+#define _WDG_PRIVATE_H
 
 /* ==================================================================== */
 /* =================== Private Variables and Macros =================== */

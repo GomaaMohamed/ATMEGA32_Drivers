@@ -8,8 +8,8 @@
 * @date:    Wed, 06 Sep 2023 10:51:56 +0300
 * @brief:   Timer Driver for Atmega32.
 ******************************************************************************/
-#ifndef TIMER_PRIVATE_H
-#define TIMER_PRIVATE_H
+#ifndef _TIMER_PRIVATE_H
+#define _TIMER_PRIVATE_H
 
 /* ==================================================================== */
 /* =================== private variables and Macros =================== */

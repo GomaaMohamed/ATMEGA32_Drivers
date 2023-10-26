@@ -8,8 +8,8 @@
 * @date:    Mon, 25 Sep 2023 15:12:09 +0300
 * @brief:   Ultrasonic Sensor Driver.
 ******************************************************************************/
-#ifndef USONIC_CONFIG_H
-#define USONIC_CONFIG_H
+#ifndef _USONIC_CONFIG_H
+#define _USONIC_CONFIG_H
 
 /* ==================================================================== */
 /* =================== Configurations Selection ======================= */

@@ -8,8 +8,8 @@
 * @date:    Tue, 19 Sep 2023 18:11:03 +0300
 * @brief:   I2C Driver for Atmega32.
 ******************************************************************************/
-#ifndef I2C_PRIVATE_H
-#define I2C_PRIVATE_H
+#ifndef _I2C_PRIVATE_H
+#define _I2C_PRIVATE_H
 
 /* ==================================================================== */
 /* =================== Private Variables and Macros =================== */

@@ -8,8 +8,8 @@
 * @date:    Sat, 16 Sep 2023 11:01:07 +0300
 * @brief:   SPI Driver for Atmega32.
 *************************************************************************/
-#ifndef SPI_PRIVATE_H
-#define SPI_PRIVATE_H
+#ifndef _SPI_PRIVATE_H
+#define _SPI_PRIVATE_H
 
 /* ==================================================================== */
 /* =================== Private Variables and Macros =================== */

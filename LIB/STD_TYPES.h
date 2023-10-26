@@ -8,8 +8,8 @@
 * @date:    Fri, 8 Sep 2023 18:21:12 +0200
 * @brief:   Standard Types Library.
 ******************************************************************************/
-#ifndef STD_TYPES_H
-#define STD_TYPES_H
+#ifndef _STD_TYPES_H
+#define _STD_TYPES_H
 
 typedef unsigned char       u8;
 typedef unsigned int        u16;

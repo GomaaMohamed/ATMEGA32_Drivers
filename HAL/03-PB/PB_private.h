@@ -8,8 +8,8 @@
 * @date:    Sat, 09 Sep 2023 13:05:05 +0300
 * @brief:   Push Button Driver.
 ******************************************************************************/
-#ifndef PB_PRIVATE_H
-#define PB_PRIVATE_H
+#ifndef _PB_PRIVATE_H
+#define _PB_PRIVATE_H
 
 /* ==================================================================== */
 /* =================== Private Variables and Macros =================== */

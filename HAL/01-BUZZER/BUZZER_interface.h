@@ -8,8 +8,8 @@
 * @date:    Sat, 09 Sep 2023 21:50:19 +0300
 * @brief:   Buzzer Driver.
 ******************************************************************************/
-#ifndef BUZZER_INTERFACE_H
-#define BUZZER_INTERFACE_H
+#ifndef _BUZZER_INTERFACE_H
+#define _BUZZER_INTERFACE_H
 
 
 /* ==================================================================== */

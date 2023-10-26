@@ -8,8 +8,8 @@
 * @date:    Wed, 13 Sep 2023 17:17:21 +0300
 * @brief:   Keypad Driver 4*4.
 ******************************************************************************/
-#ifndef KEYPAD_PRIVATE_H
-#define KEYPAD_PRIVATE_H
+#ifndef _KEYPAD_PRIVATE_H
+#define _KEYPAD_PRIVATE_H
 
 /* ==================================================================== */
 /* ====================== Private Data Types ========================== */

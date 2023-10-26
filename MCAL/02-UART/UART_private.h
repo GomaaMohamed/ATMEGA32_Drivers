@@ -8,8 +8,8 @@
 * @date:    Fri, 08 Sep 2023 21:34:43 +0300
 * @brief:   UART Driver for Atmega32.
 *************************************************************************/
-#ifndef UART_PRIVATE_H
-#define UART_PRIVATE_H
+#ifndef _UART_PRIVATE_H
+#define _UART_PRIVATE_H
 
 /* ==================================================================== */
 /* =================== Private Variables and Macros =================== */

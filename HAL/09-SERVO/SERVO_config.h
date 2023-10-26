@@ -8,8 +8,8 @@
 * @date:    Sun, 01 Oct 2023 22:24:42 +0300
 * @brief:   Servo Motor Driver.
 ******************************************************************************/
-#ifndef SERVO_CONFIG_H
-#define SERVO_CONFIG_H
+#ifndef _SERVO_CONFIG_H
+#define _SERVO_CONFIG_H
 
 /* Servo pin configurations */
 #define SERVO_PWM_PORT GPIOD

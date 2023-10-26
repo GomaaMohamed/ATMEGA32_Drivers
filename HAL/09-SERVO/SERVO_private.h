@@ -8,8 +8,8 @@
 * @date:    Sun, 01 Oct 2023 22:24:42 +0300
 * @brief:   Servo Motor Driver.
 ******************************************************************************/
-#ifndef SERVO_PRIVATE_H
-#define SERVO_PRIVATE_H
+#ifndef _SERVO_PRIVATE_H
+#define _SERVO_PRIVATE_H
 
 
 

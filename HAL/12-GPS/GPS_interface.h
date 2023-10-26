@@ -9,8 +9,8 @@
 * @brief:   GPS Driver.
 * Note: all getters return strings in formatted values of location and time
 ******************************************************************************/
-#ifndef GPS_INTERFACE_H
-#define GPS_INTERFACE_H
+#ifndef _GPS_INTERFACE_H
+#define _GPS_INTERFACE_H
 
 /* ==================================================================== */
 /* ==================== Public Functions Declaration ================== */

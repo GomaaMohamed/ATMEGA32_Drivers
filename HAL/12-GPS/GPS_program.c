@@ -32,7 +32,6 @@
 
 // Function to initialize GPS Module
 void GPS_init(void){
-    LED_init();
     UART_init();
     memset(GGABuffer, 0, 150);
 	memset(DegreesBuffer,0,20);

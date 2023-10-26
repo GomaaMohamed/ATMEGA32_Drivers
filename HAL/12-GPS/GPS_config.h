@@ -8,8 +8,8 @@
 * @date:    Sun, 10 Sep 2023 13:26:58 +0300
 * @brief:   GPS Driver.
 ******************************************************************************/
-#ifndef GPS_CONFIG_H
-#define GPS_CONFIG_H
+#ifndef _GPS_CONFIG_H
+#define _GPS_CONFIG_H
 
 
 

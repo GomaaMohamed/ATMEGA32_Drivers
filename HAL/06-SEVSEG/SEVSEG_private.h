@@ -8,8 +8,8 @@
 * @date:    Wed, 13 Sep 2023 12:48:20 +0300
 * @brief:   Seven Segments Driver with multiplixer.
 ******************************************************************************/
-#ifndef SEVSEG_PRIVATE_H
-#define SEVSEG_PRIVATE_H
+#ifndef _SEVSEG_PRIVATE_H
+#define _SEVSEG_PRIVATE_H
 
 /* ==================================================================== */
 /* =================== Private Variables and Macros =================== */

@@ -8,8 +8,8 @@
 * @date:    Fri, 08 Sep 2023 21:34:43 +0300
 * @brief:   UART Driver for Atmega32.
 ******************************************************************************/
-#ifndef UART_INTERFACE_H
-#define UART_INTERFACE_H
+#ifndef _UART_INTERFACE_H
+#define _UART_INTERFACE_H
 
 /* ==================================================================== */
 /* ======================= Public Data Types ========================== */

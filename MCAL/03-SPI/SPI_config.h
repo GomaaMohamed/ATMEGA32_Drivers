@@ -8,8 +8,8 @@
 * @date:    Sat, 16 Sep 2023 11:01:07 +0300
 * @brief:   SPI Driver for Atmega32.
 ******************************************************************************/
-#ifndef SPI_CONFIG_H
-#define SPI_CONFIG_H
+#ifndef _SPI_CONFIG_H
+#define _SPI_CONFIG_H
 
 /* ==================================================================== */
 /* =================== Configurations Selection ======================= */

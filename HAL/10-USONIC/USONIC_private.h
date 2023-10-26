@@ -7,9 +7,9 @@
 * @version: V0.2   
 * @date:    Mon, 25 Sep 2023 15:12:09 +0300
 * @brief:   Ultrasonic Sensor Driver.
-******************************************************************************/
-#ifndef USONIC_PRIVATE_H
-#define USONIC_PRIVATE_H
+*************************************************************************/
+#ifndef _USONIC_PRIVATE_H
+#define _USONIC_PRIVATE_H
 
 /* ==================================================================== */
 /* =================== Private Variables and Macros =================== */
